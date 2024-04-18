@@ -11,6 +11,7 @@ Everything you need to get started with this weather app.
 - [Getting Started](#getting-started)
 - [Testing](#testing)
 - [Preparing for Deployment](#preparing-for-deployment)
+- [Github Pages](#github-pages)
 - [Installed Packages](#installed-packages)
 
 ## Overview
@@ -93,6 +94,10 @@ pnpm run build
 ```
 
 and pointing your web server to the generated `index.html` file found at `dist/index.html`
+
+## Github Pages
+
+Github workflows are setup to automatically deploy to Github Pages. The deployment can be found at [https://vkasharma.github.io/weather-wizard/](https://vkasharma.github.io/weather-wizard/)
 
 ## Installed Packages
 
